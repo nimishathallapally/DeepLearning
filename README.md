@@ -33,12 +33,12 @@ This repository contains solutions to Deep Learning lab assignments, each in a s
 * Anomaly detection using Autoencoder (Melanoma dataset).
 * Dataset : Melanoma dataset (split from LAB4)
 
-###  Variational Autoencoders (VAE)
+### `LAB6` - Variational Autoencoders (VAE)
 
 * VAE on FashionMNIST for synthetic image generation.
 * Dataset: [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
 
-### `LAB6 and LAB7` - DeepFake Generation using GAN
+### `LAB7` - DeepFake Generation using GAN
 
 * GAN trained on CelebA dataset for face generation.
 * Dataset: [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
